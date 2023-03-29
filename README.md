@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">An engaged back-end developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhosseini3&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhosseini3" /> </p>
 
