@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">An engaged BackEnd Developer and Bot Maker</h3>
+<h3 align="center">An engaged BackEnd Developer and BOT Maker</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhosseini3&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhosseini3" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django, BOT making**
 
 - 💬 Ask me about **python,c,c++,django**
 
