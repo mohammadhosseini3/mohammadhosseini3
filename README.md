@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">An engaged back-end developer</h3>
+<h3 align="center">An engaged BackEnd Developer and Bot Maker</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif">
 
