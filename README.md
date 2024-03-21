@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhosseini3&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhosseini3" /> </p>
 
-- 🌱 I’m currently learning **python,git**
+- 🌱 I’m currently learning **react-native**
 
-- 💬 Ask me about **python,mt5,django**
+- 💬 Ask me about **python,django,javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
